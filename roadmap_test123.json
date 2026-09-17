@@ -1,0 +1,184 @@
+{
+  "goal": "Data Scientist",
+  "start_date": "2025-11-07",
+  "generated_on": "2025-11-07",
+  "phases": [
+    {
+      "name": "Foundations: Programming & Math",
+      "description": "Master Python programming, statistics, and linear algebra fundamentals",
+      "start_date": "2025-11-07",
+      "end_date": "2026-01-01",
+      "resources": [
+        {
+          "name": "Python for Data Science",
+          "type": "course",
+          "duration_weeks": 4,
+          "difficulty": "beginner",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Python for Data Science - Full Course for Beginners",
+              "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Learn Python - Full Course for Beginners [Tutorial]",
+              "url": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+              "channel": "freeCodeCamp.org"
+            }
+          ]
+        },
+        {
+          "name": "Statistics & Probability",
+          "type": "course",
+          "duration_weeks": 4,
+          "difficulty": "intermediate",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Statistics - A Full University Course on Data Science Basics",
+              "url": "https://www.youtube.com/watch?v=xxpc-HPKN-8",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Probability and Statistics: The Science of Uncertainty",
+              "url": "https://www.youtube.com/watch?v=uz5-q4BwGCE",
+              "channel": "MIT OpenCourseWare"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Engineering & Analysis",
+      "description": "Learn data manipulation, cleaning, and exploratory data analysis",
+      "start_date": "2026-01-02",
+      "end_date": "2026-02-12",
+      "resources": [
+        {
+          "name": "Data Analysis with Pandas",
+          "type": "course",
+          "duration_weeks": 3,
+          "difficulty": "intermediate",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Data Analysis with Python - Full Course for Beginners",
+              "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Pandas Tutorial - Complete Guide to Data Analysis",
+              "url": "https://www.youtube.com/watch?v=vM4oEKlHzk0",
+              "channel": "Corey Schafer"
+            }
+          ]
+        },
+        {
+          "name": "SQL for Data Science",
+          "type": "course",
+          "duration_weeks": 3,
+          "difficulty": "intermediate",
+          "status": "pending",
+          "links": [
+            {
+              "title": "SQL Tutorial - Full Database Course for Beginners",
+              "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "SQL for Data Science - Complete Course",
+              "url": "https://www.youtube.com/watch?v=FR4QIeZaPeM",
+              "channel": "freeCodeCamp.org"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Machine Learning Fundamentals",
+      "description": "Understand ML algorithms, model evaluation, and validation",
+      "start_date": "2026-02-13",
+      "end_date": "2026-04-23",
+      "resources": [
+        {
+          "name": "Machine Learning Specialization",
+          "type": "course",
+          "duration_weeks": 8,
+          "difficulty": "advanced",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Machine Learning for Everybody - Full Course",
+              "url": "https://www.youtube.com/watch?v=i_LwzRVP7hw",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Introduction to Machine Learning Course",
+              "url": "https://www.youtube.com/watch?v=ukzFI9rgwfU",
+              "channel": "Stanford University"
+            }
+          ]
+        },
+        {
+          "name": "ML Portfolio Project",
+          "type": "project",
+          "duration_weeks": 2,
+          "difficulty": "advanced",
+          "status": "pending",
+          "links": [
+            {
+              "title": "ML Portfolio Project - Complete Tutorial",
+              "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "channel": "Educational Channel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advanced Topics & Specialization",
+      "description": "Deep learning, NLP, or computer vision based on interest",
+      "start_date": "2026-04-24",
+      "end_date": "2026-06-18",
+      "resources": [
+        {
+          "name": "Deep Learning Specialization",
+          "type": "course",
+          "duration_weeks": 6,
+          "difficulty": "advanced",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Deep Learning Course with TensorFlow",
+              "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Introduction to Deep Learning",
+              "url": "https://www.youtube.com/watch?v=7sB052Pz0sQ",
+              "channel": "MIT OpenCourseWare"
+            }
+          ]
+        },
+        {
+          "name": "Capstone Project",
+          "type": "project",
+          "duration_weeks": 2,
+          "difficulty": "advanced",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Capstone Project - Complete Tutorial",
+              "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "channel": "Educational Channel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "end_date": "2026-06-18",
+  "total_duration_weeks": 16,
+  "generated_by": "Demo AI Generator"
+}

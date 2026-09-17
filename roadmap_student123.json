@@ -1,0 +1,133 @@
+{
+  "goal": "python developer",
+  "start_date": "2025-11-07",
+  "generated_on": "2025-11-07",
+  "phases": [
+    {
+      "name": "Foundation Phase",
+      "description": "Build fundamental knowledge for python developer",
+      "start_date": "2025-11-07",
+      "end_date": "2026-01-01",
+      "resources": [
+        {
+          "name": "Introduction to python developer",
+          "type": "course",
+          "duration_weeks": 4,
+          "difficulty": "beginner",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Python for Data Science - Full Course for Beginners",
+              "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Learn Python - Full Course for Beginners [Tutorial]",
+              "url": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+              "channel": "freeCodeCamp.org"
+            }
+          ]
+        },
+        {
+          "name": "Foundation Project",
+          "type": "project",
+          "duration_weeks": 4,
+          "difficulty": "beginner",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Foundation Project - Complete Tutorial",
+              "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "channel": "Educational Channel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Skills",
+      "description": "Develop core competencies in python developer",
+      "start_date": "2026-01-02",
+      "end_date": "2026-02-26",
+      "resources": [
+        {
+          "name": "Advanced python developer Concepts",
+          "type": "course",
+          "duration_weeks": 6,
+          "difficulty": "intermediate",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Python for Data Science - Full Course for Beginners",
+              "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Learn Python - Full Course for Beginners [Tutorial]",
+              "url": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+              "channel": "freeCodeCamp.org"
+            }
+          ]
+        },
+        {
+          "name": "Skill Building Project",
+          "type": "project",
+          "duration_weeks": 2,
+          "difficulty": "intermediate",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Skill Building Project - Complete Tutorial",
+              "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "channel": "Educational Channel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advanced Mastery",
+      "description": "Advanced topics and specialization in python developer",
+      "start_date": "2026-02-27",
+      "end_date": "2026-04-23",
+      "resources": [
+        {
+          "name": "Expert Level python developer",
+          "type": "course",
+          "duration_weeks": 4,
+          "difficulty": "advanced",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Python for Data Science - Full Course for Beginners",
+              "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+              "channel": "freeCodeCamp.org"
+            },
+            {
+              "title": "Learn Python - Full Course for Beginners [Tutorial]",
+              "url": "https://www.youtube.com/watch?v=eWRfhZUzrAc",
+              "channel": "freeCodeCamp.org"
+            }
+          ]
+        },
+        {
+          "name": "Capstone Project",
+          "type": "project",
+          "duration_weeks": 4,
+          "difficulty": "advanced",
+          "status": "pending",
+          "links": [
+            {
+              "title": "Capstone Project - Complete Tutorial",
+              "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "channel": "Educational Channel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "end_date": "2026-04-23",
+  "total_duration_weeks": 12,
+  "generated_by": "Demo AI Generator"
+}
